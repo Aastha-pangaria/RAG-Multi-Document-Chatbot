@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+chromadb
+pyngrok
+faiss-cpu
+sentence-transformers
+mistralai==0.4.2
+python-docx
