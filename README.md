@@ -1,5 +1,3 @@
-# Multi-PDF-Chatbot
-
 # RAG Multi-Document Chatbot
 RAG Multi-Document Chatbot is a Streamlit-based application that allows you to upload and chat with multiple documents (PDF, DOCX, TXT). It leverages modern embedding models and the Mistral API to provide context-aware answers to your questions, using Retrieval-Augmented Generation (RAG) techniques for high-quality responses from your own files.
 
