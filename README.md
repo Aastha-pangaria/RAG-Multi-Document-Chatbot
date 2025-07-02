@@ -21,7 +21,7 @@ Secure: Your API key is never stored
 Obtain an API key from Mistral.
 Enter the key in the Streamlit sidebar when prompted.
 
-###Run the app:
+### Run the app:
 bash
 streamlit run app.py
 
@@ -49,6 +49,6 @@ File Errors: Only PDF, DOCX, and TXT files are supported. Corrupted or empty fil
 
 Dependencies: If you encounter missing package errors, re-run the pip install command above.
 
-## Contributions and issues are welcome! Please open an issue or pull request on GitHub.
+### Contributions and issues are welcome! Please open an issue or pull request on GitHub.
 
 Built with ❤️ for document Q&A and knowledge retrieval.
