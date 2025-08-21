@@ -102,7 +102,7 @@ The user uploads files via the Streamlit interface. These files are then process
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/Aastha-pangaria/RAG-Multi-Document-Chatbot/tree/main
+git clone https://github.com/Aastha-pangaria/RAG-Multi-Document-Chatbot.git
 cd RAG-Multi-Document-Chatbot
 ```
 
