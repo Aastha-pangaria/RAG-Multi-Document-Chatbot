@@ -85,9 +85,6 @@ The user uploads files via the Streamlit interface. These files are then process
 .
 ├── app.py                  # Main user-facing Streamlit application
 ├── app_eval.py             # Developer evaluation dashboard application
-├── chroma_db/              # Directory for the persistent ChromaDB database
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
 ```
 
 ---
@@ -114,20 +111,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
 ### 4. Install Dependencies
-
-`requirements.txt`:
-
-```
-streamlit
-pymupdf
-chromadb
-pyngrok
-faiss-cpu
-sentence-transformers
-mistralai==0.4.2
-python-docx
-streamlit-copy-to-clipboard
-```
 
 ```bash
 pip install -r requirements.txt
