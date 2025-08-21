@@ -157,10 +157,12 @@ streamlit run app.py
 2. Click the **Process Documents** button to index the content.
 3. Once processing is complete, ask questions in the chat input box.
 
-**Screenshot Placeholder:**
-`<img width="1570" height="919" alt="image" src="https://github.com/user-attachments/assets/be421373-b995-4909-b172-d33ffa78835e" />
-`
-`<img width="1560" height="874" alt="image" src="https://github.com/user-attachments/assets/7167a0e0-4210-414c-acd8-ac87e7e0db58" />`
+### User-Interface Image
+
+<img width="1570" height="919" alt="image" src="https://github.com/user-attachments/assets/be421373-b995-4909-b172-d33ffa78835e" />
+
+### Developer-Interface Image
+<img width="1560" height="874" alt="image" src="https://github.com/user-attachments/assets/7167a0e0-4210-414c-acd8-ac87e7e0db58" />
 
 
 ---
@@ -177,9 +179,6 @@ streamlit run app_eval.py
 2. **Upload & Process:** Upload your documents and process them.
 3. **Chat & Analyze:** Ask questions; a detailed metrics panel appears below each answer showing latency, groundedness, relevance, etc.
 4. **Benchmark:** Upload a CSV with questions to run automated evaluation and download results.
-
-**Screenshot Placeholder:**
-`[Insert Developer Dashboard Screenshot Here]`
 
 ---
 
