@@ -102,8 +102,8 @@ The user uploads files via the Streamlit interface. These files are then process
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/Aastha-pangaria/RAG-Multi-Document-Chatbot/tree/main
+cd RAG-Multi-Document-Chatbot
 ```
 
 ### 3. Create a Virtual Environment (Recommended)
